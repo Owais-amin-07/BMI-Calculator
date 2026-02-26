@@ -1,0 +1,5 @@
+{
+  "name": "Vitality BMI Calculator",
+  "description": "A modern, responsive BMI calculator with real-time feedback and database integration.",
+  "requestFramePermissions": []
+}
